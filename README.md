@@ -16,4 +16,4 @@ The algorithm outputs:
 - a differentially-private classification model
 - several variables that describe the model and its performance on the testing data
 
-Please cite the above paper if you use my code :)
+You can redistribute them and/or modify them under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. The main requirement of which is that you cite the above paper. Thanks!
